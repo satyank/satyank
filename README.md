@@ -38,8 +38,8 @@
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=satyank&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyank&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-psi-three-71.vercel.app/api?username=satyank&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-psi-three-71.vercel.app/api/top-langs/?username=satyank&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
